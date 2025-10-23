@@ -1,0 +1,124 @@
+@font-face {
+  font-family: 'MillerDisplay';
+  src: url('./fonts/MillerDisplay-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'MillerDisplay';
+  src: url('./fonts/MillerDisplay-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'MillerDisplay';
+  src: url('./fonts/MillerDisplay-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'MillerDisplay';
+  src: url('./fonts/MillerDisplay-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'MillerDisplay';
+  src: url('./fonts/MillerDisplay-Roman.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'MillerDisplay';
+  src: url('./fonts/MillerDisplay-Semibold.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'MillerDisplay';
+  src: url('./fonts/MillerDisplay-SemiboldItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'UniversCom';
+  src: url('./fonts/UniversCom-45Light.ttf') format('truetype');
+  font-weight: 300; /* Light weight */
+  font-style: normal;
+}
+@font-face {
+  font-family: 'UniversCom';
+  src: url('./fonts/UniversCom-45LightOblique.ttf') format('truetype');
+  font-weight: 300;  /* Light */
+  font-style: italic;  /* Oblique = italic style */
+}
+@font-face {
+  font-family: 'UniversCom';
+  src: url('./fonts/UniversCom-47LightCond.ttf') format('truetype');
+  font-weight: 300;  /* Light weight */
+  font-style: normal;
+  font-stretch: condensed;  /* Indicate condensed style */
+}
+@font-face {
+  font-family: 'UniversCom';
+  src: url('./fonts/UniversCom-47LightCondObl.ttf') format('truetype');
+  font-weight: 300;          /* Light */
+  font-style: italic;        /* Oblique/Italic */
+  font-stretch: condensed;   /* Condensed */
+}
+@font-face {
+  font-family: 'UniversCom';
+  src: url('./fonts/UniversCom-55Oblique.ttf') format('truetype');
+  font-weight: 400;       /* Regular weight */
+  font-style: italic;     /* Oblique/italic style */
+}
+@font-face {
+  font-family: 'UniversCom';
+  src: url('./fonts/UniversCom-55Roman.ttf') format('truetype');
+  font-weight: 400;       /* Regular weight */
+  font-style: normal;     /* Oblique/italic style */
+}
+@font-face {
+  font-family: 'UniversCom';
+  src: url('./fonts/UniversCom-57Condensed.ttf') format('truetype');
+  font-weight: 400;       /* Regular weight */
+  font-style: normal;     /* Oblique/italic style */
+  font-stretch: condensed;   /* Condensed */
+}
+@font-face {
+  font-family: 'UniversCom';
+  src: url('./fonts/UniversCom-57CondensedObl.ttf') format('truetype');
+  font-weight: 600;       /* Semi-bold or medium (adjust if you know exact weight) */
+  font-style: italic;     /* Oblique/Italic */
+  font-stretch: condensed; /* Condensed */
+}
+@font-face {
+  font-family: 'UniversCom';
+  src: url('./fonts/UniversCom-65Bold.ttf') format('truetype');
+  font-weight: 700;       /* Bold */
+  font-style: normal;     /* Normal style */
+}
+@font-face {
+  font-family: 'UniversCom';
+  src: url('./fonts/UniversCom-65BoldOblique.ttf') format('truetype');
+  font-weight: 700;       /* Bold */
+  font-style: italic;     /* Oblique/Italic */
+}
+@font-face {
+  font-family: 'UniversCom';
+  src: url('./fonts/UniversCom-67BoldCond.ttf') format('truetype');
+  font-weight: 700;         /* Bold */
+  font-style: normal;       /* Normal style */
+  font-stretch: condensed;  /* Condensed */
+}
+@font-face {
+  font-family: 'UniversCom';
+  src: url('./fonts/UniversCom-67BoldCondObl.ttf') format('truetype');
+  font-weight: 700;          /* Bold */
+  font-style: italic;        /* Oblique/Italic */
+  font-stretch: condensed;   /* Condensed */
+}
+
+
+
+
